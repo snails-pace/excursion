@@ -1,6 +1,13 @@
 /* Body */
 body {
     background-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans serif;
     font-weight: normal;
+}
+
+/* Header */
+header h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
 }
