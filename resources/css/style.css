@@ -4,12 +4,12 @@ body {
     font-family: Verdana, sans serif;
     font-weight: normal;
     text-align: center;
+    color: white;
 }
 
 /* Header */
 header h1 {
     font-size: 50px;
-    color: white;
     font-weight: normal;
 }
 
